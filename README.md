@@ -1,2 +1,2 @@
 # GK2022_Redirect
- Redirect page for gingerkiwi.dev
+ Quick redirect page for gingerkiwi.dev. Definately not pretty (looks a bit circa late 1990s!), but it does the job.
